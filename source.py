@@ -1,5 +1,3 @@
-import queue
-
 pairs = [(5, 5), (6, 6), (9, 7)]
 
 def get_shortest_path(pointA, pointB):
